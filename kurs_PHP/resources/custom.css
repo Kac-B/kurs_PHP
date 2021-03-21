@@ -1,0 +1,59 @@
+.sk-top	.segment {
+	margin-top: 0;
+	border-radius: 0;
+	color: rgba(255,255,255,0.8);
+}
+
+/* Zawartosc */
+.sk-content {
+	margin-top: 50px;
+}
+
+form .red {
+	margin-bottom: 20px;
+}
+
+.ui.label {
+	font-weight: 400 !important;
+	margin-bottom: 0.6em !important;
+}
+
+.sk-popular-users {
+	margin-top: 30px;
+}
+
+.sk-column-header {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.single-article {
+	margin-bottom: 50px;
+}
+
+.single-article img {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+/* Stopka */
+.sk-footer {
+	margin-top: 80px;
+	padding: 40px 0;
+	background-color: #2185D0;
+	color: #EFEFEF;
+}
+
+.sk-footer a {		
+	color: #EFEFEF;
+	font-size: 110%;
+	margin: 0 12px;
+}
+
+.sk-footer a:first-child {
+	margin-left: 0;
+}
+
+.sk-footer a:hover {
+	color: #DDDDDD;
+}
